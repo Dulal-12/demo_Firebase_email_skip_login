@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1086018644976",
+    "project_id": "share-your-feelng",
+    "storage_bucket": "share-your-feelng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086018644976:android:fde8d136df2feeaa334b35",
+        "android_client_info": {
+          "package_name": "com.dulali.firebaseloginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086018644976-25cgs1susgv8gok5iitnh59fnicppe4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8xubcUzF7WMv-Kd1ZmwuYJywkl29qn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086018644976-25cgs1susgv8gok5iitnh59fnicppe4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086018644976:android:622bf0ae3b691f5b334b35",
+        "android_client_info": {
+          "package_name": "com.dulali.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086018644976-lhsf6st0asjtbo2vb8iglo429choagmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dulali.google",
+            "certificate_hash": "0d0ab11181e1a203545a39c859a51b17ba1f935d"
+          }
+        },
+        {
+          "client_id": "1086018644976-25cgs1susgv8gok5iitnh59fnicppe4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8xubcUzF7WMv-Kd1ZmwuYJywkl29qn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086018644976-25cgs1susgv8gok5iitnh59fnicppe4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
